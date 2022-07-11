@@ -67,7 +67,7 @@ global.sgc = 'https://chat.whatsapp.com/ID36jYZjlYz7E4zus4SBed'
 global.sig = 'https://instagram.com/saya_asroriamin'
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/saya_asroriamin"
+global.urlnya = "https://www.instagram.com/hii.putragans/"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
